@@ -21,7 +21,6 @@ logo() {
 | | | |  _| | | | \\___ \\ 
 | |_| | |___| |_| |___) |
 |____/|_____|\\___/|____/ 
-           DEUS           
    ${BLD}${CRE}[ ${CYE}${text} ${CRE}]${CNC}\n\n"
 }
 
@@ -261,7 +260,7 @@ install_dependencies() {
 
 install_gh0stzk_dependencies() {
     clear
-    logo "Installing needed packages from gh0stzk repository..."
+    logo "Installing needed packages from repository..."
     sleep 2
 
     # List of dependencies
